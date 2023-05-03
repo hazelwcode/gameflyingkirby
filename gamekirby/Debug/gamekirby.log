@@ -1,0 +1,15 @@
+﻿  FlyingKirby.cpp
+C:\Users\LAPTOP LENOVO\Desktop\gamekirby\gamekirby\FlyingKirby.cpp(229,23): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\LAPTOP LENOVO\Desktop\gamekirby\gamekirby\FlyingKirby.cpp(301,32): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  LTexture.cpp
+C:\Users\LAPTOP LENOVO\Desktop\gamekirby\gamekirby\LTexture.cpp(100,26): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\LAPTOP LENOVO\Desktop\gamekirby\gamekirby\LTexture.cpp(100,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\LAPTOP LENOVO\Desktop\gamekirby\gamekirby\LTexture.cpp(100,36): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\LAPTOP LENOVO\Desktop\gamekirby\gamekirby\LTexture.cpp(100,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\LAPTOP LENOVO\Desktop\gamekirby\gamekirby\LTexture.cpp(100,46): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\LAPTOP LENOVO\Desktop\gamekirby\gamekirby\LTexture.cpp(100,46): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\LAPTOP LENOVO\Desktop\gamekirby\gamekirby\LTexture.cpp(100,53): warning C4838: conversion from 'double' to 'int' requires a narrowing conversion
+C:\Users\LAPTOP LENOVO\Desktop\gamekirby\gamekirby\LTexture.cpp(100,53): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  SDL_InitWindow.cpp
+  Generating Code...
+  gamekirby.vcxproj -> C:\Users\LAPTOP LENOVO\Desktop\gamekirby\Debug\gamekirby.exe
